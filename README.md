@@ -10,10 +10,10 @@ All queries use **PostgreSQL** and are beginner to intermediate-friendly.
 
 ## 📊 Featured Projects
 
-## 📌 [CRM Data Validation](https://github.com/shayisthaabdulla/CRM_Data_Validation_SQL)
+### 📌 [CRM Data Validation](https://github.com/shayisthaabdulla/CRM_Data_Validation_SQL)
 SQL dashboard project built to simulate validation workflows inside a Dynamics 365 CRM system. Covers real BA tasks like detecting missing owner assignments, filtering incorrect programs, validating order completeness, and creating summaries across sales tiers and agent accounts. Perfect showcase of SQL used in enterprise CRM environments for operations and audit reporting.
 
-## 📌 [Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_SQL)
+### 📌 [Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_SQL)
 Simulates a real-world GPT-powered social content pipeline for insurance agents. Covers agent order intake, CSQ (Content Survey Questionnaire) analysis, and AI content workflow stages. Includes SQL queries for data validation, missing assignments, regional coverage, and content status tracking. Demonstrates how SQL supports marketing automation and AI-based content operations.
 
 ## 🛠 Tools & Technologies
