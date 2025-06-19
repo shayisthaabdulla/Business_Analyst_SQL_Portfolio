@@ -2,24 +2,27 @@
 
 ## 👩‍💻 About This Repository
 
-Welcome to my **SQL Portfolio**, where I’ve recreated real-world Business Analyst use cases through structured queries, sample datasets, and scenario-based analysis.
+Welcome to my **SQL Portfolio**, where I’ve recreated real-world Business Analyst use cases through structured queries, sample datasets, and scenario-based analysis using PostgreSQL.
 
 Each project in this portfolio reflects the kind of data validation, reporting, and process optimization work I’ve done in actual enterprise settings — including CRM workflows, content operations, marketing automation, and business intelligence.
 
 All queries use **PostgreSQL** and are beginner to intermediate-friendly.
 
-## 📁 Featured Projects
+## 📊 Featured Projects
 
 ## 📌 [CRM Data Validation](https://github.com/shayisthaabdulla/CRM_Data_Validation_SQL)
 SQL dashboard project built to simulate validation workflows inside a Dynamics 365 CRM system. Covers real BA tasks like detecting missing owner assignments, filtering incorrect programs, validating order completeness, and creating summaries across sales tiers and agent accounts. Perfect showcase of SQL used in enterprise CRM environments for operations and audit reporting.
 
-## 📌 [Social Media Content Automation SQL Project](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_SQL)
+## 📌 [Social Media Content Automation](https://github.com/shayisthaabdulla/Social_Media_Content_Automation_SQL)
 Simulates a real-world GPT-powered social content pipeline for insurance agents. Covers agent order intake, CSQ (Content Survey Questionnaire) analysis, and AI content workflow stages. Includes SQL queries for data validation, missing assignments, regional coverage, and content status tracking. Demonstrates how SQL supports marketing automation and AI-based content operations.
 
-## 🛠 Tools & Tech
+## 🛠 Tools & Technologies
 
-- `PostgreSQL`   
-- GitHub-hosted CSVs for sample data  
+- **PostgreSQL** – Core database used for writing and testing all SQL queries  
+- **GitHub CSV Files** – Used for sample dataset uploads
+- **SQL Joins & Aggregations** – Applied across realistic use cases  
+- **Data Cleaning Techniques** – Null handling, duplicates, case logic  
+- **Business-Centric Querying** – Focused on real-world CRM & content workflows
  
 ## 💡 Business Analyst Strengths – SQL Focused
 
