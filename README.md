@@ -17,7 +17,7 @@ SQL dashboard project built to simulate validation workflows inside a Dynamics 3
 Simulates a real-world GPT-powered social content pipeline for insurance agents. Covers agent order intake, CSQ (Content Survey Questionnaire) analysis, and AI content workflow stages. Includes SQL queries for data validation, missing assignments, regional coverage, and content status tracking. Demonstrates how SQL supports marketing automation and AI-based content operations.
 
 ### 📌 [Hospital Management](https://github.com/shayisthaabdulla/Hospital_Management)
-Real-world hospital management system built in PostgreSQL to demonstrate Business Analyst-level SQL skills. Includes 6 connected tables (patients, doctors, appointments, billing, etc.) and 30+ queries covering joins, aggregations, data validation, and time-based insights for real-world analysis.
+A self-built hospital management SQL project designed to apply and showcase Business Analyst-level SQL skills. Features 6 connected tables and 25+ queries covering joins, data cleaning, KPIs, and time-based insights. Built in PostgreSQL to simulate real-world data analysis scenarios.
 
 ## 🛠 Tools & Technologies
 
