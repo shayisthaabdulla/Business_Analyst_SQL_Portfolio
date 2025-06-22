@@ -39,8 +39,7 @@ A self-built hospital management SQL project designed to apply and showcase Busi
 
 ## ✍️ About Me
 
-I'm **Shayistha Abdulla**, a  
-**Microsoft Certified Dynamics 365 Business Analyst** with 9+ years of experience across Digital Marketing, CRM, PropTech, and IT Consulting. This portfolio demonstrates how I use SQL for real-world data storytelling, quality checks, and process automation.
+I'm **Shayistha Abdulla**, a **Microsoft Certified Dynamics 365 Business Analyst** with 9+ years of experience across Digital Marketing, CRM, PropTech, and IT Consulting. This portfolio demonstrates how I use SQL for real-world data storytelling, quality checks, and process automation.
 
 📫 [LinkedIn](https://www.linkedin.com/in/shayisthaa/)  
 📂 [Other GitHub Projects](https://github.com/shayisthaabdulla)  
