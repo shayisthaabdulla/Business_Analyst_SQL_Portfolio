@@ -19,6 +19,9 @@ Simulates a real-world GPT-powered social content pipeline for insurance agents.
 ### 📌 [Hospital Management](https://github.com/shayisthaabdulla/Hospital_Management)
 A self-built hospital management SQL project designed to apply and showcase Business Analyst-level SQL skills. Features 6 connected tables and 25+ queries covering joins, data cleaning, KPIs, and time-based insights. Built in PostgreSQL to simulate real-world data analysis scenarios.
 
+### [Salary Management System](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-)
+This project simulates a corporate salary and payroll system using PostgreSQL. It includes normalized tables and 30+ SQL queries covering real BA tasks like compensation validation, payroll reporting, and bonus analysis.
+
 ## 🛠 Tools & Technologies
 
 - **PostgreSQL** – Core database used for writing and testing all SQL queries  
