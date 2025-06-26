@@ -19,8 +19,11 @@ Simulates a real-world GPT-powered social content pipeline for insurance agents.
 ### 📌 [Hospital Management](https://github.com/shayisthaabdulla/Hospital_Management)
 A self-built hospital management SQL project designed to apply and showcase Business Analyst-level SQL skills. Features 6 connected tables and 25+ queries covering joins, data cleaning, KPIs, and time-based insights. Built in PostgreSQL to simulate real-world data analysis scenarios.
 
-### [Salary Management System](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-)
+### 📌 [Salary Management System](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-)
 This project simulates a corporate salary and payroll system using PostgreSQL. It includes normalized tables and 30+ SQL queries covering real BA tasks like compensation validation, payroll reporting, and bonus analysis.
+
+### 📌 [Blood Donation Management System](https://github.com/shayisthaabdulla/Blood_Donation_SQL_Project)
+A healthcare-focused SQL project simulating blood donation workflows across hospitals, donors, patients, and inventory. Covers real Business Analyst use cases like data validation, donation tracking, inventory monitoring, and reward analysis. Includes 30+ beginner-to-intermediate SQL queries using PostgreSQL — featuring JOIN, GROUP BY, CASE, subqueries, and quality checks.
 
 ## 🛠 Tools & Technologies
 
