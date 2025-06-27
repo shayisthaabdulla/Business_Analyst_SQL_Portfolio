@@ -25,6 +25,9 @@ This project simulates a corporate salary and payroll system using PostgreSQL. I
 ### 📌 [Blood Donation Management System](https://github.com/shayisthaabdulla/Blood_Donation_SQL_Project)
 A healthcare-focused SQL project simulating blood donation workflows across hospitals, donors, patients, and inventory. Covers real Business Analyst use cases like data validation, donation tracking, inventory monitoring, and reward analysis. Includes 30+ beginner-to-intermediate SQL queries using PostgreSQL — featuring JOIN, GROUP BY, CASE, subqueries, and quality checks.
 
+### 📌 [Library Management System](https://github.com/shayisthaabdulla/Library_Management_SQL_Project)
+A complete, real-world simulation of a library management system built in PostgreSQL, featuring six relational tables and over 1000 records per table. This project demonstrates essential Business Analyst SQL skills with 50+ queries for data exploration, joins, aggregations, filtering, data validation, and reporting.
+
 ## 🛠 Tools & Technologies
 
 - **PostgreSQL** – Core database used for writing and testing all SQL queries  
